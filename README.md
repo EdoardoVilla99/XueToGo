@@ -3,48 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>XueToGo – Support</title>
-  <style>
-    :root { --accent: #B31729; }
-    * { box-sizing: border-box; }
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 48px 20px 80px;
-      color: #1c1c1e;
-      line-height: 1.6;
-    }
-    header { display: flex; align-items: center; gap: 16px; margin-bottom: 8px; }
-    .mark {
-      width: 64px; height: 64px; border-radius: 15px; flex: none;
-      background: linear-gradient(135deg, #B31729, #7E0F1B);
-      color: #fff; display: flex; align-items: center; justify-content: center;
-      font-size: 34px; font-weight: 600;
-    }
-    h1 { font-size: 1.9rem; margin: 0; }
-    .tagline { color: #6e6e73; margin: 0; }
-    h2 { font-size: 1.15rem; margin-top: 2.4rem; }
-    p { margin: 0.6rem 0; }
-    a { color: var(--accent); }
-    .card {
-      border: 1px solid #e5e5ea; border-radius: 14px;
-      padding: 18px 20px; margin: 24px 0; background: #fafafa;
-    }
-    .q { font-weight: 600; margin-top: 1.2rem; }
-    footer {
-      margin-top: 3rem; padding-top: 1.4rem; border-top: 1px solid #e5e5ea;
-      color: #6e6e73; font-size: 0.9rem;
-    }
-    @media (prefers-color-scheme: dark) {
-      body { background: #000; color: #f2f2f7; }
-      .card { background: #1c1c1e; border-color: #2c2c2e; }
-      .tagline, footer { color: #98989d; }
-      a { color: #ff6b6b; }
-    }
-  </style>
-</head>
-<body>
+ 
 
   <header>
     <div class="mark">学</div>
